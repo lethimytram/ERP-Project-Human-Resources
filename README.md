@@ -1,4 +1,4 @@
-# TRIỂN KHAI HỆ THỐNG ERP CHO CÔNG TY SOFTWARE
+# TRIỂN KHAI ERP - PHÂN HỆ QUẢN LÝ NHÂN SỰ (HRM) CHO CÔNG TY SOFTWARE
 ## Giới thiệu
 
 Dự án triển khai phân hệ quản lý nhân sự trên nền tảng Odoo nhằm hỗ trợ doanh nghiệp quản lý toàn diện nhân sự và tự động hóa các quy trình nghiệp vụ.
