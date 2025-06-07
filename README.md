@@ -6,7 +6,6 @@ Dự án triển khai phân hệ quản lý nhân sự trên nền tảng Odoo n
 Mục tiêu của dự án:
 
 - Nâng cao hiệu quả quản lý nhân sự
-- Tiết kiệm thời gian và chi phí vận hành
 - Hạn chế sai sót thủ công trong các tác vụ nhân sự
 - Tự động hóa quy trình nghiệp vụ từ tuyển dụng đến tính lương
 
